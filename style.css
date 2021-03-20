@@ -1,0 +1,38 @@
+/*Colors and fonts */
+body {
+	background: e36bae;
+	color: 1e212d; 
+	font-family: Times; 
+	font-weight: 900
+	font-size:38px;
+	text transform: uppercase;
+
+
+}
+h1, h2, h3{
+	font-family: Times;
+}
+h1  {
+
+	color: f14668
+	font-size: 32px
+}
+
+h2 {
+
+	color: f14668
+	font-size: 24px	
+}
+a {
+	text-decoration: none;
+	color: white;
+}
+a:hover {
+	color: white;
+}
+
+
+div {
+	background: white
+	border: 2px solid black;
+}
